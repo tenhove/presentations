@@ -1,0 +1,19 @@
+---
+title: "Operations Research in Health Care"
+format: revealjs
+editor: visual
+bibliography: references.bib
+---
+
+## Decision Problems in Home Health Care
+
+![[@grieco_operational_2021]](or-in-hc_files/imgs/or-in-hc.jpeg)
+
+## Scheduling
+
+![Genetic algorithm](or-in-hc_files/imgs/genetic.gif)
+
+## References
+
+::: {#refs}
+:::
