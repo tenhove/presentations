@@ -13,6 +13,13 @@ bibliography: references.bib
 
 ![Genetic algorithm](or-in-hc_files/imgs/genetic.gif)
 
+## Districting
+
+```{=html}
+<div>
+<iframe src="or-in-hc_files/imgs/map.html" style="width:900px; height:600px;"></iframe>
+</div>
+```
 ## References
 
 ::: {#refs}
