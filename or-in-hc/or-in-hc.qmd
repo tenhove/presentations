@@ -5,13 +5,17 @@ editor: visual
 bibliography: references.bib
 ---
 
+## Operations Research (OR)
+
+![](or-in-hc_files/imgs/or.png)
+
 ## Decision Problems in Home Health Care
 
 ![[@grieco_operational_2021]](or-in-hc_files/imgs/or-in-hc.jpeg)
 
 ## Routing of visits
 
-![Genetic algorithm](or-in-hc_files/imgs/genetic.gif)
+![](or-in-hc_files/imgs/genetic.gif)
 
 ## Districting
 
