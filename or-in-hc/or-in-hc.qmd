@@ -9,7 +9,7 @@ bibliography: references.bib
 
 ![[@grieco_operational_2021]](or-in-hc_files/imgs/or-in-hc.jpeg)
 
-## Scheduling
+## Routing of visits
 
 ![Genetic algorithm](or-in-hc_files/imgs/genetic.gif)
 
