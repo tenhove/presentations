@@ -24,18 +24,17 @@ bibliography: references.bib
 <iframe src="or-in-hc_files/imgs/map.html" style="width:900px; height:600px;"></iframe>
 </div>
 ```
-
 ## Team size and composition
 
 ![](or-in-hc_files/imgs/teams-ql.png)
 
 ## Demand modeling
 
-![](or-in-hc_files/imgs/lemma.png)
+![](or-in-hc_files/imgs/principle.png)
+
 <hr>
-$m_a = mean\ arrival\ rate\ of\ new\ cases\ per\ week$
-$m_s = mean\ length\ of\ stay$
-$m_g = mean\ weekly\ demand\ of\ care\ per\ case\ per\ week$
+
+$m_a, \sigma_a = mean\ , st.\ dev.\ of\ arrival\ rate\ of\ new\ cases\ per\ week$ $m_s, G_s = mean\ , Gini\ coeff.\ of\ length\ of\ stay$ $m_g, \sigma_g = mean\ , st.\ dev.\ of\ weekly\ demand\ of\ care\ per\ case\ per\ week$
 
 ## Typical cases
 
@@ -44,7 +43,6 @@ $m_g = mean\ weekly\ demand\ of\ care\ per\ case\ per\ week$
 <iframe src="or-in-hc_files/imgs/losvsfreq.html" style="width:900px; height:600px;"></iframe>
 </div>
 ```
-
 ## Length of stay
 
 ![](or-in-hc_files/imgs/survival.png)
@@ -52,6 +50,12 @@ $m_g = mean\ weekly\ demand\ of\ care\ per\ case\ per\ week$
 ## Length of stay distribution
 
 ![](or-in-hc_files/imgs/fitpv2.png)
+
+## Appointment planning
+
+![](or-in-hc_files/imgs/schedule.png)
+
+[Demo](https://witusj.github.io/research/experiments/site/source/search-function.html)
 
 ## References
 
