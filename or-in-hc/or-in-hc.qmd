@@ -17,6 +17,8 @@ bibliography: references.bib
 
 ![](or-in-hc_files/imgs/genetic.gif)
 
+[Demo](https://colab.research.google.com/github/witusj/obp/blob/master/genetic_algorith_demo.ipynb)
+
 ## Districting
 
 ```{=html}
